@@ -392,7 +392,7 @@ Create a table, specifying how many concurrent readers and writers we want (to p
 ---
 # Ensure the table is there on every execution to pick up changes
 
-![inline fit](pics/event-table.png)
+![inline fit](pics/ensure-table.png)
 
 ---
 
